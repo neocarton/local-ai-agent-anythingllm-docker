@@ -24,6 +24,7 @@ http://localhost:3001/
 
 Introduce yourselves?
 Tell me what can you do?
-What do you know? Until when your data is up to date? Start with high level, then go deeper, how deep do you know a topic?
-How many languages can you work with?
-Do you have any censorship?
+How many languages can you work with? Do you have any censorship?
+Until when your data is up to date?
+What do you know? Start with high level, then go deeper.
+How deep do you know a topic? Give example to demonstrate your knowledge depth?
